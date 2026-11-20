@@ -1,4 +1,4 @@
-package list;
+package linkedlist;
 
 /**
  * 题目：反转链表

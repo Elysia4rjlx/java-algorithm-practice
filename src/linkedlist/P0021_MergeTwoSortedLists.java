@@ -1,4 +1,4 @@
-package list;
+package linkedlist;
 
 /**
  * 题目：合并两个有序链表
